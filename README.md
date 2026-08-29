@@ -1,201 +1,185 @@
-<div align="center">
+<!-- ===================== HEADER ===================== -->
 
-# Hi 👋, I'm Omnia Osama Mahmoud
-
-### Full Stack Developer
-
-<p>
-Building modern, scalable, and user-focused web applications with a strong focus on clean code, performance, and great user experiences.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,20,24&text=Omnia%20Osama%20Mahmoud&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%" />
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/omnia-osama-6754b3206/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:anaomnia47@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://drive.google.com/file/d/17yYfyT-OG_Q_eUrqw_3tqnNjLXgeARWt/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-View_CV-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
-  </a>
-</p>
+# Hello, folks! 👋
 
-</div>
+My name is **Omnia Osama Mahmoud**, and I'm a **Full Stack Developer** from Egypt 🇪🇬.
+
+I'm a Systems & Computers Engineering graduate with a passion for building modern, scalable, and user-friendly web applications.
+
+I work across the full development stack — from creating responsive frontend experiences with **React & TypeScript** to building backend services and working with databases using **Node.js, Express, PostgreSQL, MongoDB, and Supabase**.
+
+I also have experience as a **Full Stack MERN Instructor**, where I enjoy simplifying technical concepts and helping developers strengthen their web development skills.
+
+You can find me on
+<a href="https://www.linkedin.com/in/omnia-osama-6754b3206/">LinkedIn</a>,
+check out my
+<a href="https://drive.google.com/file/d/17yYfyT-OG_Q_eUrqw_3tqnNjLXgeARWt/view?usp=sharing">Resume</a>,
+or reach me at
+<a href="mailto:anaomnia47@gmail.com">anaomnia47@gmail.com</a>.
 
 ---
 
-## 👩‍💻 About Me
+## 🔧 Technologies & Tools
 
-I'm a **Full Stack Developer** with a background in **Systems & Computers Engineering** and hands-on experience building modern web applications from frontend interfaces to backend services and databases.
+### 💻 Languages
 
-I enjoy transforming complex requirements into clean, scalable, and user-friendly products. My experience includes working with **React, TypeScript, Node.js, Express, PostgreSQL, MongoDB, Supabase**, and modern web development tools.
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=7C3AED)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=7C3AED)
+![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=7C3AED)
+![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=7C3AED)
+![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=7C3AED)
 
-Beyond development, I also have experience as a **Full Stack MERN Instructor**, teaching and simplifying web development concepts for aspiring developers.
+### 🎨 Frontend
 
-- 🎓 Systems & Computers Engineering graduate
-- 💻 Full Stack Developer specializing in modern JavaScript ecosystems
-- 👩‍🏫 Experience as a Full Stack MERN Instructor
-- 🌍 Building responsive and multilingual web applications
-- ⚡ Interested in scalable architecture and clean code
-- 📚 Currently learning **Advanced TypeScript, Next.js & System Design**
+![React](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=2563EB)
+![Next.js](https://img.shields.io/badge/Frontend-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=2563EB)
+![Tailwind CSS](https://img.shields.io/badge/Frontend-Tailwind_CSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2563EB)
+![Angular](https://img.shields.io/badge/Frontend-Angular-informational?style=flat&logo=angular&logoColor=white&color=2563EB)
+![Vite](https://img.shields.io/badge/Frontend-Vite-informational?style=flat&logo=vite&logoColor=white&color=2563EB)
 
----
+### ⚙️ Backend
 
-## 🛠️ Tech Stack
+![Node.js](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=059669)
+![Express.js](https://img.shields.io/badge/Backend-Express.js-informational?style=flat&logo=express&logoColor=white&color=059669)
+![REST API](https://img.shields.io/badge/Backend-REST_API-informational?style=flat&logo=fastapi&logoColor=white&color=059669)
 
-### Frontend
+### 🗄️ Database & Backend Services
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
-</p>
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=DB2777)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=DB2777)
+![Supabase](https://img.shields.io/badge/Backend-Supabase-informational?style=flat&logo=supabase&logoColor=white&color=DB2777)
+![Prisma](https://img.shields.io/badge/ORM-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=DB2777)
 
-### Backend
+### 🛠️ Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Databases & Backend Services
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,prisma" />
-</p>
-
-### Tools & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
-</p>
+![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F59E0B)
+![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=F59E0B)
+![VS Code](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=F59E0B)
+![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=F59E0B)
+![Vercel](https://img.shields.io/badge/Deploy-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=F59E0B)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I'm Working On
 
-### 🌐 B2B Marketplace Platform
+I've worked on a large-scale **B2B Marketplace Platform**, contributing to both user-facing experiences and complex platform operations.
 
-A large-scale **B2B marketplace platform** designed to connect buyers and suppliers through a complete digital trading experience.
+Some of the areas I've worked on include:
 
-Worked on features including:
-
-- Vendor and buyer dashboards
+- Buyer & vendor dashboards
 - RFQ and quotation workflows
-- Deal and payment management
-- Marketplace search and filtering
-- Subscription plans and feature limits
-- Real-time notifications and messaging
-- Admin operations and management tools
-- Analytics and activity tracking
-- Arabic & English internationalization with RTL support
-- Responsive web and mobile-oriented experiences
+- Deal & payment management
+- Marketplace search & filtering
+- Real-time notifications
+- Messaging systems
+- Subscription & entitlement systems
+- Admin dashboards & operational tools
+- Analytics & activity tracking
+- Arabic / English internationalization
+- Responsive & mobile-oriented experiences
 
-**Technologies:** React • JavaScript • Supabase • PostgreSQL • Tailwind CSS • i18next
+I also build personal projects where I experiment with new technologies, architecture patterns, and product ideas.
 
 ---
+
+## 💼 Featured Projects
+
+<a href="https://github.com/omniaosamamahmood-prog/Finova">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omniaosamamahmood-prog&repo=Finova&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/><br/>
 
 ### 💰 Finova
 
-A modern **personal finance management application** built to help users understand and manage their finances through a clean and intuitive experience.
+A personal finance management application focused on making everyday financial tracking simple and intuitive.
 
-**Key Features**
+`React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma`
 
-- Secure authentication
-- Income & expense tracking
-- Budget management
-- Savings goals
-- Recurring transactions
-- Financial dashboards
-- Bilingual user experience
-- Responsive design
-
-**Technologies:** React • TypeScript • Node.js • Express • PostgreSQL • Prisma • Tailwind CSS
-
----
-
-### 📋 TaskFlow
-
-A **Kanban-style task management application** designed for organizing projects, boards, lists, and tasks in a simple personal workspace.
-
-**Key Features**
-
-- Secure authentication
-- Create and manage boards
-- Organize tasks into lists
-- Move tasks across workflow stages
-- User-specific workspaces
-- English & Arabic support
-- RTL interface support
-- Responsive UI
-
-**Technologies:** Next.js • React • JavaScript • Authentication • Database Integration
-
----
-
-## 📚 Currently Exploring
-
-```text
-Advanced TypeScript
-Next.js
-System Design
-Scalable Backend Architecture
-Clean Architecture & Best Practices
-```
-
----
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=omniaosamamahmood-prog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
-/>
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=omniaosamamahmood-prog&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
-/>
-
-</div>
+Features include transaction tracking, budgets, savings goals, recurring transactions, authentication, and financial dashboards.
 
 <br/>
 
-<div align="center">
+### 📋 TaskFlow
 
-<img
-  src="https://streak-stats.demolab.com?user=omniaosamamahmood-prog&theme=tokyonight&hide_border=true&background=0D1117"
-/>
+A Kanban-style personal task management application for organizing work into boards, lists, and tasks.
 
-</div>
+`Next.js` `React` `Authentication` `i18n` `RTL`
+
+Includes board management, task organization, secure user workspaces, responsive design, and Arabic / English support.
+
+<br/>
+
+### 🌐 B2B Marketplace Platform
+
+A production-scale marketplace connecting buyers and suppliers through RFQs, quotations, deals, payments, messaging, subscriptions, analytics, and admin operations.
+
+`React` `Supabase` `PostgreSQL` `Tailwind CSS` `i18next`
+
+---
+
+## 🌱 Currently Learning
+
+I'm currently diving deeper into:
+
+![Advanced TypeScript](https://img.shields.io/badge/Learning-Advanced_TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Learning-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![System Design](https://img.shields.io/badge/Learning-System_Design-7C3AED?style=flat)
+
+I'm especially interested in learning more about **scalable application architecture, backend design, performance, and building production-ready systems**.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<a href="https://github.com/omniaosamamahmood-prog">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omniaosamamahmood-prog&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
+
+<a href="https://github.com/omniaosamamahmood-prog">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omniaosamamahmood-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
+
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=omniaosamamahmood-prog&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, sharing knowledge, and exploring opportunities to build meaningful products.
+I'm always open to connecting with other developers, exchanging knowledge, collaborating on interesting projects, and exploring new opportunities.
 
-<div align="center">
+<p align="center">
 
 <a href="mailto:anaomnia47@gmail.com">
-  <img src="https://img.shields.io/badge/Email-anaomnia47%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/omnia-osama-6754b3206/">
-  <img src="https://img.shields.io/badge/LinkedIn-Omnia_Osama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://drive.google.com/file/d/17yYfyT-OG_Q_eUrqw_3tqnNjLXgeARWt/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Resume-View_My_CV-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Resume-View_My_CV-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
 
-</div>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omniaosamamahmood-prog&style=flat&color=7C3AED" alt="Profile Views" />
+</p>
 
-<div align="center">
-
-### ✨ Code. Learn. Build. Improve.
-
-![Profile Views](https://komarev.com/ghpvc/?username=omniaosamamahmood-prog&style=for-the-badge&color=7c3aed)
-
-</div>
+<!--
+=====================================================
+Thanks for visiting my GitHub profile!
+=====================================================
+-->
