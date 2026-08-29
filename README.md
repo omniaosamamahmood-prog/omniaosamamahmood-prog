@@ -13,12 +13,12 @@
 </p>
 
 ## About me
-
-- 🎓 Systems & Computers Engineering graduate from Al-Azhar University — **Very Good**
-- 💻 ITI Mansoura graduate — **Full Stack MERN**
-- 👩‍🏫 Full Stack MERN Instructor
-- 🌱 Currently learning **Advanced TypeScript, Next.js, and System Design**
-- 📍 Based in Egypt
+- Currently working as a **Full Stack MERN Instructor**, helping aspiring developers build practical, real-world web applications.
+- Systems & Computers Engineering graduate from Al-Azhar University — **Very Good**
+- ITI Mansoura graduate — **Full Stack MERN**
+- Full Stack MERN Instructor
+- Currently learning **Advanced TypeScript, Next.js, and System Design**
+- Based in Egypt
 
 ## Tech stack
 
