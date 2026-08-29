@@ -7,9 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omnia-osama-6754b3206/">LinkedIn</a> ·
-  <a href="mailto:anaomnia47@gmail.com">Email</a> ·
-  <a href="https://drive.google.com/file/d/17yYfyT-OG_Q_eUrqw_3tqnNjLXgeARWt/view?usp=sharing">Resume</a>
+  <a href="https://www.linkedin.com/in/omnia-osama-6754b3206/"><img src="./assets/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="30" height="30" /></a>&nbsp;&nbsp;
+  <a href="mailto:anaomnia47@gmail.com"><img src="./assets/icons/gmail.svg" alt="Email" title="Email" width="30" height="30" /></a>&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/17yYfyT-OG_Q_eUrqw_3tqnNjLXgeARWt/view?usp=sharing"><img src="./assets/icons/googledrive.svg" alt="Resume" title="Resume" width="30" height="30" /></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=61566883538588"><img src="./assets/icons/facebook.svg" alt="Facebook" title="Facebook" width="30" height="30" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/omniaosama2002/"><img src="./assets/icons/instagram.svg" alt="Instagram" title="Instagram" width="30" height="30" /></a>
 </p>
 
 ## About me
