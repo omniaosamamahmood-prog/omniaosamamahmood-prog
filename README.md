@@ -1,61 +1,201 @@
-## Hey 👋, I'm Rahul Jha!
-<a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<div align="center">
 
+# Hi 👋, I'm Omnia Osama Mahmoud
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+### Full Stack Developer
+
+<p>
+Building modern, scalable, and user-focused web applications with a strong focus on clean code, performance, and great user experiences.
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/omnia-osama-6754b3206/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:anaomnia47@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://drive.google.com/file/d/17yYfyT-OG_Q_eUrqw_3tqnNjLXgeARWt/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-View_CV-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+I'm a **Full Stack Developer** with a background in **Systems & Computers Engineering** and hands-on experience building modern web applications from frontend interfaces to backend services and databases.
+
+I enjoy transforming complex requirements into clean, scalable, and user-friendly products. My experience includes working with **React, TypeScript, Node.js, Express, PostgreSQL, MongoDB, Supabase**, and modern web development tools.
+
+Beyond development, I also have experience as a **Full Stack MERN Instructor**, teaching and simplifying web development concepts for aspiring developers.
+
+- 🎓 Systems & Computers Engineering graduate
+- 💻 Full Stack Developer specializing in modern JavaScript ecosystems
+- 👩‍🏫 Experience as a Full Stack MERN Instructor
+- 🌍 Building responsive and multilingual web applications
+- ⚡ Interested in scalable architecture and clean code
+- 📚 Currently learning **Advanced TypeScript, Next.js & System Design**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases & Backend Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,prisma" />
+</p>
+
+### Tools & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 B2B Marketplace Platform
+
+A large-scale **B2B marketplace platform** designed to connect buyers and suppliers through a complete digital trading experience.
+
+Worked on features including:
+
+- Vendor and buyer dashboards
+- RFQ and quotation workflows
+- Deal and payment management
+- Marketplace search and filtering
+- Subscription plans and feature limits
+- Real-time notifications and messaging
+- Admin operations and management tools
+- Analytics and activity tracking
+- Arabic & English internationalization with RTL support
+- Responsive web and mobile-oriented experiences
+
+**Technologies:** React • JavaScript • Supabase • PostgreSQL • Tailwind CSS • i18next
+
+---
+
+### 💰 Finova
+
+A modern **personal finance management application** built to help users understand and manage their finances through a clean and intuitive experience.
+
+**Key Features**
+
+- Secure authentication
+- Income & expense tracking
+- Budget management
+- Savings goals
+- Recurring transactions
+- Financial dashboards
+- Bilingual user experience
+- Responsive design
+
+**Technologies:** React • TypeScript • Node.js • Express • PostgreSQL • Prisma • Tailwind CSS
+
+---
+
+### 📋 TaskFlow
+
+A **Kanban-style task management application** designed for organizing projects, boards, lists, and tasks in a simple personal workspace.
+
+**Key Features**
+
+- Secure authentication
+- Create and manage boards
+- Organize tasks into lists
+- Move tasks across workflow stages
+- User-specific workspaces
+- English & Arabic support
+- RTL interface support
+- Responsive UI
+
+**Technologies:** Next.js • React • JavaScript • Authentication • Database Integration
+
+---
+
+## 📚 Currently Exploring
+
+```text
+Advanced TypeScript
+Next.js
+System Design
+Scalable Backend Architecture
+Clean Architecture & Best Practices
+```
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=omniaosamamahmood-prog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
+/>
+
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=omniaosamamahmood-prog&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
+/>
+
+</div>
+
 <br/>
-<br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
-### 🧐 More About Me:
+<div align="center">
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+<img
+  src="https://streak-stats.demolab.com?user=omniaosamamahmood-prog&theme=tokyonight&hide_border=true&background=0D1117"
+/>
 
-<br>
+</div>
 
-### 🔨 Languages and Tools:
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+---
 
-<br>
+## 🤝 Let's Connect
 
+I'm always interested in connecting with developers, sharing knowledge, and exploring opportunities to build meaningful products.
 
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+<div align="center">
 
+<a href="mailto:anaomnia47@gmail.com">
+  <img src="https://img.shields.io/badge/Email-anaomnia47%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br>
+<a href="https://www.linkedin.com/in/omnia-osama-6754b3206/">
+  <img src="https://img.shields.io/badge/LinkedIn-Omnia_Osama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### 🛠️ My Projects
-<a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+<a href="https://drive.google.com/file/d/17yYfyT-OG_Q_eUrqw_3tqnNjLXgeARWt/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-View_My_CV-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ✨ Code. Learn. Build. Improve.
+
+![Profile Views](https://komarev.com/ghpvc/?username=omniaosamamahmood-prog&style=for-the-badge&color=7c3aed)
+
+</div>
