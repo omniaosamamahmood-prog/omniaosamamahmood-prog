@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme-header.png" alt="Omnia Osama Mahmoud — Full Stack Developer" width="100%" />
+  <img src="./assets/newBaner.png" alt="Omnia Osama Mahmoud — Full Stack Developer" width="100%" />
 </p>
 
 <p align="center">
